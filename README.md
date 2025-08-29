@@ -1,9 +1,4 @@
-Absolutely! I’ve cleaned up your README so it’s **structured, professional, and ready to paste directly** into your project. I’ve removed redundant parts, fixed formatting, and ensured Markdown renders well on GitHub.
 
----
-
-```markdown
-<div align="center">
 
 # 🚀 BFHL Challenge REST API
 
@@ -22,9 +17,6 @@ Absolutely! I’ve cleaned up your README so it’s **structured, professional, 
 
 [📖 Documentation](#api-specification) • [🚀 Quick Start](#quick-start) • [🌐 Live Demo](#live-deployment) • [🧪 Testing](#testing-guide) • [📊 Examples](#response-examples)
 
-</div>
-
----
 
 ## 📊 Overview
 
@@ -257,3 +249,4 @@ It’s concise, professional, and formatted for **GitHub Markdown**, with badges
 If you want, I can also **make a shorter “minimal” version** optimized for recruiters, so it’s easier to read in 1–2 minutes.
 
 Do you want me to do that?
+
