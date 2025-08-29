@@ -166,6 +166,13 @@ app.get('/', (req, res) => {
   });
 });
 
+// GET route for /bfhl
+app.get('/bfhl', (req, res) => {
+  res.status(200).json({
+    operation_code: 1
+  });
+});
+
 // Main POST route: /bfhl
 app.post('/bfhl', async (req, res) => {
   try {
