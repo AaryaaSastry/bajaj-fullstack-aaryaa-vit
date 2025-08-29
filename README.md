@@ -226,8 +226,8 @@ ISC License. See [LICENSE](LICENSE).
 **Aaryaa Sastry**
 *VIT University Student*
 [GitHub](https://github.com/AaryaaSastry) • [Email](mailto:aaryaa.sastry2021@vitstudent.ac.in)
-**Roll Number**: 21BCE0389
-**Student ID**: aaryaa\_sastry\_29082003
+**Roll Number**: 22BRS1179
+**Student ID**: aaryaa\_sastry\_14022004
 
 ---
 
@@ -238,16 +238,5 @@ ISC License. See [LICENSE](LICENSE).
 Made with ❤️ and ☕ for the Full Stack Developer Challenge
 
 </div>
-```
-
----
-
-This version is **ready to paste directly** into your `README.md`.
-
-It’s concise, professional, and formatted for **GitHub Markdown**, with badges, tables, and sections that render cleanly.
-
-If you want, I can also **make a shorter “minimal” version** optimized for recruiters, so it’s easier to read in 1–2 minutes.
-
-Do you want me to do that?
 
 
