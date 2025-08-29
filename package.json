@@ -1,0 +1,26 @@
+{
+  "name": "bajaj-fullstack-aaryaa-vit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaryaaSastry/bajaj-fullstack-aaryaa-vit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaryaaSastry/bajaj-fullstack-aaryaa-vit/issues"
+  },
+  "homepage": "https://github.com/AaryaaSastry/bajaj-fullstack-aaryaa-vit#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
