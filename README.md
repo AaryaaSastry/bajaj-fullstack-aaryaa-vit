@@ -4,7 +4,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/aaryaanagarajasastry-1742s-projects/bajaj-fullstack-aaryaa-vit)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaryaaSastry/bajaj-fullstack-aaryaa-vit)
 
 ![API Status](https://img.shields.io/badge/API-Live-success?style=flat-square)
@@ -249,4 +249,5 @@ It’s concise, professional, and formatted for **GitHub Markdown**, with badges
 If you want, I can also **make a shorter “minimal” version** optimized for recruiters, so it’s easier to read in 1–2 minutes.
 
 Do you want me to do that?
+
 
